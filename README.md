@@ -1,4 +1,4 @@
-# Azure InfraClientstructure
+# Azure Client
 
 This repository contains Azure infrastructure as code and related configuration files.
 
